@@ -70,5 +70,5 @@ function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Ref
   end)
   
 BladeBall:CreateToggle("Auto Clash", 
-function()loadstring(game:HttpGet("https://pastebin.com/raw/t2391h1A"))()
+function()loadstring(game:HttpGet("https://raw.githubusercontent.com/datshort1/GalaxyV2God/main/AutoClash"))()
  end)
